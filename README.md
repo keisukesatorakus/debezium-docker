@@ -121,7 +121,7 @@ ac3178c5056c   quay.io/debezium/zookeeper:latest                                
 
 4.  監視
 
-[debezium-ui](http://localhost:8080/)
+watcher:9092
 
 ```log
 WARNING: Using default NODE_ID=1, which is valid only for non-clustered installations.
